@@ -1,0 +1,121 @@
+student_id,age,gender,major,gpa,study_hours_per_week,satisfaction_1_5,survey_date,dorm_resident,expected_grad_year,income_range,commute_minutes,clubs_member,attendance_rate,favorite_language,comments
+S10000,21,Male,Computer Science,3.75,12.5,2,,True,2027,>$100k,54,True,84,JavaScript,Love the course.
+S10001,21,Male,Computer Science,3.75,12.5,3,,True,2027,Unknown,4,True,84,Rust,Lectures are 🔥
+S10002,23,Male,Data Science,3.75,20.0,5,,,2027,$75k-$100k,4,,64,JavaScript,Unknown
+S10003,21,Female,History,3.75,12.5,3,,False,2027,$25k-$50k,15,False,84,Rust,Unknown
+S10004,21,Female,Computer Science,3.75,0.0,5,,True,2029,Prefer not to say,41,False,84,Python,Unknown
+S10005,22,Male,Biology,4.0,20.0,4,,,28,$25k-$50k,4,False,84,Rust,Unknown
+S10006,21,Other,Business,3.75,12.5,2,2025-09-07,False,2028,Unknown,0,False,84,SQL,Need more examples.
+S10007,21,Other,Computer Science,3.69,12.5,3,,,2027,$50k-$75k,4,False,84,Rust,Love the course.
+S10008,21,Male,History,4.0,12.5,3,2025-10-18,True,2026,>$100k,-5,True,84,Go,Love the course.
+S10009,18,Female,Unknown,3.88,12.5,2,2025-11-08,False,28,>$100k,4,True,84,JavaScript,Too much homework.
+S10010,21,Other,Computer Science,3.75,12.5,4,2025-09-09,True,2029,>$100k,28,False,74,Python,Unknown
+S10011,18,Other,Data Science,3.75,12.5,4,2025-11-09,False,28,$25k-$50k,0,False,84,C++,Love the course.
+S10012,24,Other,Computer Science,3.7,12.5,1,,,2027,$25k-$50k,45,False,84,SQL,Too much homework.
+S10013,25,Female,Data Science,3.75,12.5,2,,True,2026,<$25k,4,True,84,Unknown,Need more examples.
+S10014,18,Female,Undeclared,3.75,12.5,5,,False,28,$25k-$50k,4,False,80,Python,Love the course.
+S10015,18,Other,Computer Science,3.75,12.5,1,2025-11-05,False,2027,>$100k,45,True,84,JavaScript,Love the course.
+S10016,18,Other,Data Science,4.0,12.5,3,2025-10-04,False,2027,$25k-$50k,0,True,84,Rust,Unknown
+S10017,19,Male,Computer Science,4.0,12.5,3,,,2028,$50k-$75k,45,,84,Java,Lectures are 🔥
+S10018,21,Other,Unknown,3.75,12.5,1,,,2027,$25k-$50k,4,False,84,Java,Unknown
+S10019,21,Female,Business,3.75,12.5,3,2025-11-02,True,2027,Prefer not to say,4,True,84,Go,Love the course.
+S10020,20,Other,Computer Science,4.0,12.5,2,2025-11-28,True,2026,Unknown,4,True,84,Python,Too much homework.
+S10021,18,Other,Biology,3.75,20.0,3,,False,2028,$25k-$50k,4,True,84,Java,Love the course.
+S10022,21,Female,History,3.75,0.0,1,2025-10-31,False,28,$50k-$75k,45,False,84,JavaScript,Love the course.
+S10023,22,Male,History,4.0,12.5,3,2025-09-04,,2028,>$100k,33,False,84,SQL,Unknown
+S10024,24,Other,Computer Science,4.0,12.5,1,,True,2029,$50k-$75k,4,,84,Go,Unknown
+S10025,21,Other,Undeclared,3.75,12.5,3,,False,2030,Prefer not to say,4,True,84,Python,Unknown
+S10026,21,Other,Unknown,3.75,12.5,3,2025-11-26,True,28,Unknown,4,,84,Go,Unknown
+S10027,21,Other,Biology,3.75,0.0,4,,True,28,$75k-$100k,45,True,84,SQL,Need more examples.
+S10028,21,Male,Data Science,3.75,12.5,3,,False,2027,$75k-$100k,-5,,84,Unknown,Unknown
+S10029,24,Other,Computer Science,3.75,12.5,3,2025-10-04,False,2027,Unknown,-5,False,84,Unknown,Lectures are 🔥
+S10030,21,Other,Business,4.0,12.5,3,,False,2028,Prefer not to say,4,True,84,Go,Need more examples.
+S10031,24,Male,Biology,3.75,28.0,3,2025-11-01,,2027,Unknown,0,False,84,JavaScript,Need more examples.
+S10032,25,Male,Undeclared,3.75,0.0,3,2025-10-30,True,2026,$75k-$100k,75,False,84,SQL,Unknown
+S10033,20,Male,History,3.75,20.0,3,2025-10-19,,2027,Unknown,-5,True,84,Python,Unknown
+S10034,21,Male,Computer Science,3.75,6.0,3,2025-10-01,,2027,>$100k,-5,,84,Go,Unknown
+S10035,21,Male,Mathematics,3.92,18.0,5,,,2030,Prefer not to say,4,False,98,Rust,Love the course.
+S10036,21,Male,Business,3.75,12.5,3,2025-11-22,True,2030,Unknown,4,True,84,Unknown,Lectures are 🔥
+S10037,20,Other,History,4.0,12.5,3,,True,2027,$50k-$75k,4,,84,JavaScript,Need more examples.
+S10038,21,Other,Business,3.75,12.5,3,2025-09-28,,2027,$50k-$75k,4,True,84,JavaScript,Unknown
+S10039,21,Other,Computer Science,3.75,12.5,3,2025-10-28,True,2027,$25k-$50k,45,,84,Go,Unknown
+S10040,21,Other,Undeclared,4.0,20.0,3,2025-10-05,,2029,<$25k,15,False,84,Java,Unknown
+S10041,21,Other,History,3.75,12.5,2,2025-09-25,False,2027,$25k-$50k,38,True,84,Python,Lectures are 🔥
+S10042,22,Female,Computer Science,2.03,12.5,3,,,2028,<$25k,-5,False,84,C++,Unknown
+S10043,19,Other,Computer Science,3.75,12.5,2,2025-10-02,True,2030,>$100k,45,True,84,Unknown,Need more examples.
+S10044,24,Other,Unknown,4.0,12.5,4,2025-11-20,,2027,$25k-$50k,4,False,84,Python,Too much homework.
+S10045,21,Other,Computer Science,3.75,12.5,3,,False,2027,Unknown,45,True,84,JavaScript,Love the course.
+S10046,20,Male,Computer Science,3.75,12.5,3,,False,2027,Prefer not to say,4,False,98,C++,Need more examples.
+S10047,24,Other,Unknown,2.35,7.0,5,2025-11-13,False,28,>$100k,-5,,84,SQL,Too much homework.
+S10048,19,Other,Business,3.75,12.5,3,,False,28,$50k-$75k,0,True,84,C++,Need more examples.
+S10049,23,Male,Undeclared,3.75,12.5,3,2025-10-23,False,2027,>$100k,-5,True,84,Rust,Too much homework.
+S10050,22,Other,Computer Science,3.75,12.5,3,,True,2030,<$25k,4,False,84,Java,Love the course.
+S10051,21,Other,Undeclared,3.75,12.5,3,,False,2028,Unknown,4,True,84,Rust,Lectures are 🔥
+S10052,21,Other,Unknown,3.75,12.5,3,,,2027,>$100k,0,False,84,JavaScript,Lectures are 🔥
+S10053,24,Female,Undeclared,3.75,0.0,3,,False,28,<$25k,15,False,84,Unknown,Unknown
+S10054,25,Male,Mathematics,3.75,12.5,3,2025-10-04,True,2030,Prefer not to say,15,True,94,Unknown,Lectures are 🔥
+S10055,21,Male,Biology,3.75,12.5,3,,False,2027,$75k-$100k,4,True,84,Go,Love the course.
+S10056,23,Other,Undeclared,4.0,12.5,3,2025-09-23,True,2030,>$100k,45,False,84,Java,Unknown
+S10057,21,Other,Computer Science,2.36,12.5,5,,False,2027,$75k-$100k,4,True,84,Rust,Unknown
+S10058,21,Other,Computer Science,3.75,20.0,5,2025-11-29,True,2030,$50k-$75k,1,False,84,Rust,Unknown
+S10059,23,Female,Biology,3.75,12.5,2,,True,2027,Unknown,56,,84,Java,Unknown
+S10060,23,Other,Mathematics,3.75,20.0,3,2025-11-04,False,2027,Unknown,4,,89,C++,Unknown
+S10061,20,Female,Undeclared,3.75,20.0,2,2025-10-21,,2027,$75k-$100k,4,True,84,Go,Unknown
+S10062,25,Male,Unknown,4.0,12.5,2,,False,2027,Prefer not to say,4,True,84,Python,Love the course.
+S10063,19,Male,Biology,3.75,12.5,3,,False,2030,>$100k,0,False,84,Unknown,Unknown
+S10064,22,Male,Business,3.75,12.5,3,,,2027,<$25k,4,False,84,Unknown,Love the course.
+S10065,21,Other,Computer Science,3.75,12.5,4,,False,2029,Unknown,15,True,84,Python,Unknown
+S10066,20,Other,History,3.56,21.0,3,2025-09-02,False,2027,<$25k,4,True,93,SQL,Too much homework.
+S10067,21,Male,Computer Science,3.75,12.5,3,2025-11-04,True,2026,Prefer not to say,4,False,84,Python,Unknown
+S10068,24,Other,Data Science,3.75,12.5,3,2025-11-17,True,2028,$50k-$75k,15,True,84,Rust,Unknown
+S10069,21,Other,Data Science,3.54,12.5,4,,False,2030,$50k-$75k,0,True,84,C++,Unknown
+S10070,23,Other,Business,3.75,12.5,2,2025-09-12,True,2030,<$25k,4,True,84,Go,Unknown
+S10071,23,Other,Computer Science,4.0,20.0,2,,False,2028,Prefer not to say,45,False,84,Go,Lectures are 🔥
+S10072,21,Female,Undeclared,3.75,12.5,1,,False,2027,<$25k,4,,84,Go,Lectures are 🔥
+S10073,20,Other,Undeclared,3.75,20.0,2,2025-11-07,,2030,$75k-$100k,4,,84,Go,Lectures are 🔥
+S10074,19,Male,Mathematics,4.0,12.5,5,,,28,>$100k,0,,84,C++,Too much homework.
+S10075,19,Other,Unknown,3.75,9.0,4,,True,2026,$25k-$50k,45,True,84,Rust,Unknown
+S10076,19,Male,Computer Science,3.75,0.0,3,2025-11-30,True,2027,<$25k,50,True,84,Unknown,Love the course.
+S10077,21,Other,Unknown,3.75,12.5,2,2025-10-22,,2028,Unknown,-5,,84,SQL,Love the course.
+S10078,24,Other,Undeclared,3.75,12.5,3,2025-09-29,False,2027,>$100k,4,False,84,Go,Unknown
+S10079,21,Male,Mathematics,3.75,12.5,2,,,28,Unknown,-5,,84,Go,Unknown
+S10080,19,Other,Computer Science,3.75,8.0,3,2025-11-04,,28,$75k-$100k,4,,64,Rust,Unknown
+S10081,21,Other,Computer Science,4.0,17.0,3,,False,2027,>$100k,4,True,81,C++,Need more examples.
+S10082,21,Female,Computer Science,3.75,12.5,3,2025-11-18,,2027,$50k-$75k,0,,84,Python,Unknown
+S10083,19,Other,Data Science,3.75,12.5,3,2025-10-13,True,2028,$50k-$75k,0,True,84,C++,Unknown
+S10084,24,Other,Mathematics,3.75,12.5,2,,,2027,<$25k,4,True,84,Go,Too much homework.
+S10085,21,Female,Mathematics,3.75,12.5,3,,True,2026,Prefer not to say,4,True,84,Java,Too much homework.
+S10086,20,Other,Computer Science,3.75,12.5,3,2025-11-18,False,28,$25k-$50k,45,,84,Unknown,Unknown
+S10087,21,Other,Computer Science,3.75,0.0,3,,False,2029,Unknown,4,,84,Unknown,Love the course.
+S10088,19,Other,Data Science,3.75,12.5,3,2025-11-05,,2027,$25k-$50k,15,True,84,Python,Need more examples.
+S10089,23,Female,Undeclared,3.75,7.0,3,,False,2027,Unknown,4,True,84,Unknown,Lectures are 🔥
+S10090,25,Other,Computer Science,3.79,12.5,3,,True,2030,<$25k,45,,84,Python,Love the course.
+S10091,21,Other,Computer Science,3.75,12.5,3,,True,2029,Prefer not to say,4,True,84,Go,Love the course.
+S10092,24,Female,Data Science,3.75,12.5,3,,True,2026,$75k-$100k,60,True,84,Rust,Lectures are 🔥
+S10093,19,Other,Biology,3.75,20.0,3,2025-09-06,True,2027,Unknown,4,False,84,Unknown,Unknown
+S10094,20,Male,Computer Science,3.75,12.5,1,2025-10-11,True,2030,Unknown,-5,,84,JavaScript,Love the course.
+S10095,18,Other,History,3.75,0.0,3,2025-10-20,False,28,Prefer not to say,15,,87,C++,Unknown
+S10096,24,Other,Mathematics,3.75,12.5,3,2025-11-24,,28,>$100k,4,False,84,Unknown,Lectures are 🔥
+S10097,21,Other,History,3.75,30.0,2,,,2027,>$100k,4,True,84,Unknown,Too much homework.
+S10098,19,Female,Business,4.0,12.5,3,2025-10-18,,2027,>$100k,15,True,75,Rust,Lectures are 🔥
+S10099,18,Female,Computer Science,4.0,12.5,5,,False,2027,Prefer not to say,45,False,84,C++,Too much homework.
+S10100,21,Other,Data Science,3.75,20.0,2,,,2027,Unknown,4,,84,JavaScript,Unknown
+S10101,20,Female,Computer Science,4.0,20.0,3,2025-11-10,True,2027,<$25k,0,False,84,SQL,Unknown
+S10102,19,Female,Business,3.75,12.5,3,,False,2028,Unknown,0,True,84,C++,Unknown
+S10103,22,Female,Mathematics,3.75,20.0,3,2025-10-07,,2029,Prefer not to say,4,True,84,Rust,Unknown
+S10104,19,Other,Mathematics,4.0,12.5,3,2025-11-12,True,2027,<$25k,4,False,99,SQL,Unknown
+S10105,25,Other,History,3.75,12.5,3,,True,2026,$25k-$50k,0,False,84,JavaScript,Need more examples.
+S10106,20,Other,Business,3.75,0.0,3,,True,2027,$50k-$75k,-5,False,84,Unknown,Lectures are 🔥
+S10107,19,Male,History,3.75,0.0,4,2025-09-21,True,2027,$25k-$50k,-5,False,91,Rust,Need more examples.
+S10108,19,Other,Computer Science,3.75,20.0,1,2025-09-07,,28,$50k-$75k,68,False,84,Java,Need more examples.
+S10109,24,Other,Computer Science,4.0,12.5,3,2025-11-10,True,2030,>$100k,4,False,84,C++,Too much homework.
+S10110,23,Other,Business,3.75,12.5,3,2025-11-04,True,2026,$25k-$50k,-5,False,84,Java,Too much homework.
+S10111,23,Female,Undeclared,3.75,12.5,3,,True,28,Prefer not to say,4,False,84,Python,Unknown
+S10112,21,Male,Undeclared,3.75,28.0,3,,True,2029,Prefer not to say,-5,True,84,SQL,Unknown
+S10113,18,Other,Data Science,3.75,0.0,3,,False,2030,>$100k,-5,True,84,Java,Unknown
+S10114,21,Other,Computer Science,3.75,12.5,3,2025-11-08,True,2027,Prefer not to say,4,False,84,JavaScript,Too much homework.
+S10115,22,Female,History,3.75,12.5,3,2025-11-01,True,2027,$50k-$75k,0,True,84,Go,Unknown
+S10116,18,Other,Data Science,3.75,12.5,3,2025-09-28,True,2027,>$100k,4,True,75,JavaScript,Love the course.
+S10117,21,Other,Biology,3.2,0.0,3,2025-10-31,False,2028,<$25k,4,True,84,Unknown,Unknown
+S10118,22,Other,History,3.75,12.5,3,2025-09-05,,2028,<$25k,-5,True,62,Rust,Unknown
+S10119,22,Other,Unknown,3.75,12.5,3,,False,28,$50k-$75k,4,,84,Unknown,Too much homework.

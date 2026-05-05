@@ -1,0 +1,425 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "featureName": "Tinker AFB"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -97.45,
+                35.31
+              ],
+              [
+                -97.29,
+                35.31
+              ],
+              [
+                -97.29,
+                35.47
+              ],
+              [
+                -97.45,
+                35.47
+              ],
+              [
+                -97.45,
+                35.31
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "featureName": "NAS Fort Worth JRB"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -97.12,
+                32.77
+              ],
+              [
+                -96.96000000000001,
+                32.77
+              ],
+              [
+                -96.96000000000001,
+                32.93
+              ],
+              [
+                -97.12,
+                32.93
+              ],
+              [
+                -97.12,
+                32.77
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "featureName": "Dyess AFB"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -99.92999999999999,
+                32.34
+              ],
+              [
+                -99.77,
+                32.34
+              ],
+              [
+                -99.77,
+                32.5
+              ],
+              [
+                -99.92999999999999,
+                32.5
+              ],
+              [
+                -99.92999999999999,
+                32.34
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "featureName": "Altus AFB"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -99.35,
+                34.58
+              ],
+              [
+                -99.19,
+                34.58
+              ],
+              [
+                -99.19,
+                34.739999999999995
+              ],
+              [
+                -99.35,
+                34.739999999999995
+              ],
+              [
+                -99.35,
+                34.58
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "featureName": "Sheppard AFB"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -98.57,
+                33.9
+              ],
+              [
+                -98.41,
+                33.9
+              ],
+              [
+                -98.41,
+                34.059999999999995
+              ],
+              [
+                -98.57,
+                34.059999999999995
+              ],
+              [
+                -98.57,
+                33.9
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "featureName": "Fort Sill"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -98.48,
+                34.57
+              ],
+              [
+                -98.32000000000001,
+                34.57
+              ],
+              [
+                -98.32000000000001,
+                34.73
+              ],
+              [
+                -98.48,
+                34.73
+              ],
+              [
+                -98.48,
+                34.57
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "featureName": "Lackland AFB"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -98.7,
+                29.3
+              ],
+              [
+                -98.54,
+                29.3
+              ],
+              [
+                -98.54,
+                29.459999999999997
+              ],
+              [
+                -98.7,
+                29.459999999999997
+              ],
+              [
+                -98.7,
+                29.3
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "featureName": "Laughlin AFB"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -100.86,
+                29.28
+              ],
+              [
+                -100.7,
+                29.28
+              ],
+              [
+                -100.7,
+                29.439999999999998
+              ],
+              [
+                -100.86,
+                29.439999999999998
+              ],
+              [
+                -100.86,
+                29.28
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "featureName": "Vance AFB"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -98.0,
+                36.260000000000005
+              ],
+              [
+                -97.84,
+                36.260000000000005
+              ],
+              [
+                -97.84,
+                36.42
+              ],
+              [
+                -98.0,
+                36.42
+              ],
+              [
+                -98.0,
+                36.260000000000005
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "featureName": "Little Rock AFB"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -92.22,
+                34.84
+              ],
+              [
+                -92.06,
+                34.84
+              ],
+              [
+                -92.06,
+                35.0
+              ],
+              [
+                -92.22,
+                35.0
+              ],
+              [
+                -92.22,
+                34.84
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "featureName": "Barksdale AFB"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -93.74,
+                32.42
+              ],
+              [
+                -93.58,
+                32.42
+              ],
+              [
+                -93.58,
+                32.58
+              ],
+              [
+                -93.74,
+                32.58
+              ],
+              [
+                -93.74,
+                32.42
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "featureName": "Fort Hood"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -97.83,
+                31.060000000000002
+              ],
+              [
+                -97.67,
+                31.060000000000002
+              ],
+              [
+                -97.67,
+                31.22
+              ],
+              [
+                -97.83,
+                31.22
+              ],
+              [
+                -97.83,
+                31.060000000000002
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

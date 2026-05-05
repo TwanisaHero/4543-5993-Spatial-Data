@@ -430,6 +430,14 @@ Pick the ones that _fit the game you want to make._ If your vibe is minimalist, 
 | **Code quality**                       | 10     | Functions have docstrings. No giant cells. State isn't just loose globals.                                                                                     |
 | **Write-up & honesty**                 | 10     | README covers what you did, known gaps, and a screenshot.                                                                                                      |
 
+## Completed Reference Notes
+
+The completed reference version is in `worldle.ipynb`. It includes a playable notebook UI, the `wdo` helper implementations, country/flag lookup, distance and direction feedback, win-state feedback, colored guess history, and map highlighting.
+
+Completed-round screenshot:
+
+![Completed Worldle round](worldle_completed_round.png)
+
 ## Grad-student (5993) add-on
 
 Pick one of:
