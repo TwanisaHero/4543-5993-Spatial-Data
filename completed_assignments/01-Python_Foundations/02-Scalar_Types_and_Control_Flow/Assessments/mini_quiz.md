@@ -8,6 +8,8 @@
 type(True)
 ```
 
+Answer: `bool`
+
 ---
 
 ### 2. What will the following print?
@@ -17,11 +19,13 @@ x = 7
 print(x >= 7 and x < 10)
 ```
 
-Answer: __________
+Answer: `True`
 
 ---
 
 ### 3. What does `not` do in a boolean expression?
+
+It reverses the boolean value: `not True` becomes `False`, and `not False` becomes `True`.
 
 ---
 
@@ -32,6 +36,17 @@ if score ___ 100:
     print("Perfect score!")
 ```
 
+Use `!=` for inequality:
+
+```python
+if score != 100:
+    print("Perfect score!")
+```
+
+If the goal is literally to print only for a perfect score, then the comparison should be `score == 100`.
+
 ---
 
 ### 5. What keyword starts a conditional chain after an `if` block?
+
+`elif`
