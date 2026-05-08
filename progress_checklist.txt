@@ -1122,55 +1122,56 @@ completed_assignments/
 │   ├── helloworld
 │   ├── pyproject.toml
 │   └── README.md
-└── 03-Data_Manager
-    ├── _micro_lessons
-    │   ├── 00-Data_Exploration
-    │   │   ├── 00-Loading_and_Inspecting.ipynb
-    │   │   ├── 01-Measuring_the_Problem.ipynb
-    │   │   └── README.md
-    │   ├── 01-Douglas_Peucker
-    │   │   ├── 00-The_Algorithm.ipynb
-    │   │   ├── 01-Implementation.ipynb
-    │   │   ├── 02-Epsilon_and_Tradeoffs.ipynb
-    │   │   └── README.md
-    │   ├── 02-LOD_Generation
-    │   │   ├── 00-Designing_the_Pipeline.ipynb
-    │   │   ├── 01-Writing_the_LOD_Files.ipynb
-    │   │   ├── 02-Comparing_the_Levels.ipynb
-    │   │   └── README.md
-    │   ├── 03-Bounding_Box_Culling
-    │   │   ├── 00-Bounding_Boxes.ipynb
-    │   │   ├── 01-Intersection_Test.ipynb
-    │   │   ├── 02-Viewport_Culling.ipynb
-    │   │   └── README.md
-    │   ├── 04-Spatial_Grid_Index
-    │   │   ├── 00-The_Grid_Idea.ipynb
-    │   │   ├── 01-Building_the_Index.ipynb
-    │   │   ├── 02-Querying_and_Benchmarking.ipynb
-    │   │   └── README.md
-    │   ├── 05-Zoom_Layer_Switching
-    │   │   ├── 00-The_Decision_Function.ipynb
-    │   │   ├── 01-Live_Layer_Switching.ipynb
-    │   │   └── README.md
-    │   ├── 06-Putting_It_Together
-    │   │   ├── 00-The_Viewer.ipynb
-    │   │   ├── 01-What_We_Built.ipynb
-    │   │   └── README.md
-    │   ├── 07-The_Library_Version
-    │   │   ├── 00-What_Are_Vector_Tiles.ipynb
-    │   │   ├── 01-Using_Tippecanoe.ipynb
-    │   │   ├── 02-The_Comparison.ipynb
-    │   │   └── README.md
-    │   └── README.md
-    ├── data
-    │   ├── lod
-    │   │   ├── railroads_coarse.geojson
-    │   │   ├── railroads_extra_fine.geojson
-    │   │   ├── railroads_fine.geojson
-    │   │   ├── railroads_fine_pretty.geojson
-    │   │   └── railroads_medium.geojson
-    │   └── ne_10m_railroads.geojson
-    └── README.md
+├── 03-Data_Manager
+│   ├── _micro_lessons
+│   │   ├── 00-Data_Exploration
+│   │   │   ├── 00-Loading_and_Inspecting.ipynb
+│   │   │   ├── 01-Measuring_the_Problem.ipynb
+│   │   │   └── README.md
+│   │   ├── 01-Douglas_Peucker
+│   │   │   ├── 00-The_Algorithm.ipynb
+│   │   │   ├── 01-Implementation.ipynb
+│   │   │   ├── 02-Epsilon_and_Tradeoffs.ipynb
+│   │   │   └── README.md
+│   │   ├── 02-LOD_Generation
+│   │   │   ├── 00-Designing_the_Pipeline.ipynb
+│   │   │   ├── 01-Writing_the_LOD_Files.ipynb
+│   │   │   ├── 02-Comparing_the_Levels.ipynb
+│   │   │   └── README.md
+│   │   ├── 03-Bounding_Box_Culling
+│   │   │   ├── 00-Bounding_Boxes.ipynb
+│   │   │   ├── 01-Intersection_Test.ipynb
+│   │   │   ├── 02-Viewport_Culling.ipynb
+│   │   │   └── README.md
+│   │   ├── 04-Spatial_Grid_Index
+│   │   │   ├── 00-The_Grid_Idea.ipynb
+│   │   │   ├── 01-Building_the_Index.ipynb
+│   │   │   ├── 02-Querying_and_Benchmarking.ipynb
+│   │   │   └── README.md
+│   │   ├── 05-Zoom_Layer_Switching
+│   │   │   ├── 00-The_Decision_Function.ipynb
+│   │   │   ├── 01-Live_Layer_Switching.ipynb
+│   │   │   └── README.md
+│   │   ├── 06-Putting_It_Together
+│   │   │   ├── 00-The_Viewer.ipynb
+│   │   │   ├── 01-What_We_Built.ipynb
+│   │   │   └── README.md
+│   │   ├── 07-The_Library_Version
+│   │   │   ├── 00-What_Are_Vector_Tiles.ipynb
+│   │   │   ├── 01-Using_Tippecanoe.ipynb
+│   │   │   ├── 02-The_Comparison.ipynb
+│   │   │   └── README.md
+│   │   └── README.md
+│   ├── data
+│   │   ├── lod
+│   │   │   ├── railroads_coarse.geojson
+│   │   │   ├── railroads_extra_fine.geojson
+│   │   │   ├── railroads_fine.geojson
+│   │   │   ├── railroads_fine_pretty.geojson
+│   │   │   └── railroads_medium.geojson
+│   │   └── ne_10m_railroads.geojson
+│   └── README.md
+└── README.md
 
 ============================================================
   SUMMARY
