@@ -32,7 +32,7 @@ It reverses the boolean value: `not True` becomes `False`, and `not False` becom
 ### 4. Fill in the blank to check for inequality:
 
 ```python
-if score ___ 100:
+if score != 100:
     print("Perfect score!")
 ```
 
