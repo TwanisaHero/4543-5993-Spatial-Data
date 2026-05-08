@@ -258,3 +258,4 @@ It’s about **thinking spatially**:
 #### Footnotes
 
 [^1]: Even if you have files that you end up not working with, or code that took you away down a wrong path, please include it. This is a project over time. It should have issues, and not all your decisions will be amazing. 
+Portfolio status: Complete.

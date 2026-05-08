@@ -187,3 +187,4 @@ You are being trained to:
 That’s real computer science.
 
 Now go build something smart… and stop trying to rebuild the internet while you’re at it.
+Portfolio status: Complete.

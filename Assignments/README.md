@@ -248,3 +248,4 @@ If you do this version, **do all 21 notebooks.**
 - [ ] 02-The_Comparison.ipynb
 
 ## Assignments/04-Worldle
+Portfolio status: Complete.

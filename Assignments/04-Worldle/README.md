@@ -466,3 +466,4 @@ That leaves the last few days for the stuff that always surprises you: the `ipyw
 - **Don't debug in your head.** `print(fb)` or `display(fb)` the feedback dict before worrying about HTML rendering.
 - **Eyeball your centers.** Half the "my arrow is wrong" bugs are actually "my center is wrong."
 - **Have fun with it.** This should feel more like a project than a problem set. If it doesn't, come talk to me.
+Portfolio status: Complete.
