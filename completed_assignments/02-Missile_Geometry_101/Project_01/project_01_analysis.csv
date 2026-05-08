@@ -1,0 +1,13 @@
+id,threat_type,distance_to_base_km,intersected_countries,near_base_300km,damage_zone_countries
+T001,orbital,1824.3,"Cuba, United States of America",True,"Nicaragua, Haiti, US Naval Base Guantanamo Bay, Cuba, Honduras, Colombia, The Bahamas, United States Minor Outlying Islands"
+T002,alien,1936.0,United States of America,True,United States of America
+T003,orbital,1105.2,"United States of America, Mexico",True,"El Salvador, Guatemala, Cuba, Honduras, Mexico, Belize"
+T004,airborne,1741.8,Mexico,False,Mexico
+T005,kaiju,1761.6,United States of America,False,United States of America
+T006,alien,2516.5,"United States of America, Canada",False,United States of America
+T007,alien,1601.9,United States of America,False,United States of America
+T008,kaiju,1006.6,United States of America,False,United States of America
+T009,orbital,1207.8,"United States of America, Mexico",False,Mexico
+T010,airborne,1683.9,None,False,"United States of America, Mexico"
+T011,airborne,2076.5,United States of America,False,United States of America
+T012,orbital,2524.5,None,False,"Nicaragua, Guatemala, Cuba, Honduras, United States of America, Mexico, Belize, Cayman Islands"
