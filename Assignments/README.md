@@ -147,7 +147,7 @@ If you do this version, **do all 60 notebooks.**
 - [ ] 00-What_Is_Bearing.ipynb
 - [ ] 01-Compute_Bearing.ipynb
 - [ ] 02-Bearing_V_Direction.ipynb
-- [ ] 03-Bearing_Applications.ipynb
+- [x] 03-Bearing_Applications.ipynb
 - [ ] 04-Advanced_Bearing.ipynb
 
 ### \_micro_lessons/08-Intercept_Pursuit_Module_Design

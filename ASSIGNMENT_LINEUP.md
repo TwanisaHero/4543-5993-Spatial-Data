@@ -148,7 +148,7 @@ Do all 60 notebooks if you choose this path.
 - [ ] `Assignments/02-Missile_Geometry_202/_micro_lessons/07-Bearing/00-What_Is_Bearing.ipynb`
 - [ ] `Assignments/02-Missile_Geometry_202/_micro_lessons/07-Bearing/01-Compute_Bearing.ipynb`
 - [ ] `Assignments/02-Missile_Geometry_202/_micro_lessons/07-Bearing/02-Bearing_V_Direction.ipynb`
-- [ ] `Assignments/02-Missile_Geometry_202/_micro_lessons/07-Bearing/03-Bearing_Applications.ipynb`
+- [x] `Assignments/02-Missile_Geometry_202/_micro_lessons/07-Bearing/03-Bearing_Applications.ipynb`
 - [ ] `Assignments/02-Missile_Geometry_202/_micro_lessons/07-Bearing/04-Advanced_Bearing.ipynb`
 - [ ] `Assignments/02-Missile_Geometry_202/_micro_lessons/08-Intercept_Pursuit_Module_Design/00-Problem_Setup.ipynb`
 - [ ] `Assignments/02-Missile_Geometry_202/_micro_lessons/08-Intercept_Pursuit_Module_Design/01-Constant_Velocity_Intercept.ipynb`
@@ -223,4 +223,3 @@ Due in the README: Friday, May 8, 2026.
 - [ ] Add at least two polish items
 - [ ] Add README or top-of-notebook write-up
 - [ ] Add screenshot of completed round
-
