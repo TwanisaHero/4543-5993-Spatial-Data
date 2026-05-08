@@ -25,7 +25,7 @@ Answer: `True`
 
 ### 3. What does `not` do in a boolean expression?
 
-It reverses the boolean value: `not True` becomes `False`, and `not False` becomes `True`.
+Answer: It reverses the boolean value: `not True` becomes `False`, and `not False` becomes `True`.
 
 ---
 
@@ -49,4 +49,4 @@ If the goal is literally to print only for a perfect score, then the comparison 
 
 ### 5. What keyword starts a conditional chain after an `if` block?
 
-`elif`
+Answer: `elif`

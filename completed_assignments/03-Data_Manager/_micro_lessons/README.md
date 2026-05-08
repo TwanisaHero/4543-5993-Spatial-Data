@@ -178,7 +178,7 @@ Reproduce the LOD pipeline using `tippecanoe` and understand what it automates.
 
 ### Why this matters
 
-At this point students have built the small version and felt every tradeoff. The library version is no longer a black box. Students can now answer: _what did tippecanoe just save us from?_ — and name specific things, because they built those things.
+At this point students have built the small version and felt every tradeoff. The library version is no longer a black box. Students can now explain what tippecanoe saved them from and name specific things, because they built those things.
 
 ---
 
